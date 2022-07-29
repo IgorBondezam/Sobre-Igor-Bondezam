@@ -65,6 +65,10 @@
         font-size: var(--tamantoFonteTopo);
     }
 
+    .nome{
+        text-align: start;
+    }
+
     .mudarCor {
         color: white;
         text-decoration: none;
