@@ -10,7 +10,7 @@
 
     :root {
         --tipoFonteTopo: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        --tamantoFonteTopo: 11px;
+        --tamantoFonteTopo: 13px;
         --tamanhoFonteMeio: 14px;
     }
 
@@ -68,7 +68,7 @@
     .mudarCor {
         color: white;
         text-decoration: none;
-        color: purple;
+        color: rgb(161, 184, 242);
     }
 
     .mudarCor:hover {
@@ -223,7 +223,7 @@
 
     .mudarCorFooter {
         font-size: 11.5px;
-        color: purple;
+        color: rgb(161, 184, 242);
     }
 
     .mudarCorFooter:hover {
@@ -336,7 +336,7 @@
     .mudarCor {
         color: white;
         text-decoration: none;
-        color: purple;
+        color: rgb(161, 184, 242);
     }
 
     .mudarCor:hover {
@@ -490,7 +490,7 @@
 
     .mudarCorFooter {
         font-size: 13px;
-        color: purple;
+        color: rgb(161, 184, 242);
     }
 
     .mudarCorFooter:hover {
@@ -605,7 +605,7 @@
 
     .mudarCor:hover {
         transition: 1s;
-        color: purple;
+        color: rgb(161, 184, 242);
         text-decoration: underline;
 
     }
@@ -759,7 +759,7 @@
     .mudarCorFooter:hover {
         transition: 1s;
         font-size: 18px;
-        color: purple;
+        color: rgb(161, 184, 242);
     }
 
 
@@ -870,7 +870,7 @@
 
     .mudarCor:hover {
         transition: 1s;
-        color: purple;
+        color: rgb(161, 184, 242);
         text-decoration: underline;
 
     }
@@ -1024,7 +1024,7 @@
     .mudarCorFooter:hover {
         transition: 1s;
         font-size: 18px;
-        color: purple;
+        color: rgb(161, 184, 242);
     }
 
 
